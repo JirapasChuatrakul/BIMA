@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "BIMA",
+    "slug": "BIMA",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./app/assets/icon.png",
+    "splash": {
+      "image": "./app/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+	  "infoPlist": {
+		"NSCameraUsageDescription": "Camera allows",
+		"NSPhotoLibraryUsageDescription": "Your message to user when the photo library is accessed for the first time",
+		"NSMicrophoneUsageDescription" : "Your message to user when the microphone is accessed for the first time",
+		"NSPhotoLibraryAddUsageDescription" : "Your message to user when the photo library is accessed for the first time"
+		}
+    },
+    "web": {
+      "favicon": "./app/assets/favicon.png"
+    }
+  }
+  
+}

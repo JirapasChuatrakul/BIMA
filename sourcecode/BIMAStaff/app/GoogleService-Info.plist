@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>721820261307-cahbbo48r3d4d0s04sf7k03popqc5gj2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.721820261307-cahbbo48r3d4d0s04sf7k03popqc5gj2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCIhE5svcI8nGaDwgI1oRkPCUhX7Bnb7cU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>721820261307</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.BIMA</string>
+	<key>PROJECT_ID</key>
+	<string>project-bima-by-jirapas</string>
+	<key>STORAGE_BUCKET</key>
+	<string>project-bima-by-jirapas.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:721820261307:ios:74b2d12f6cd8ed8a1e429e</string>
+	<key>DATABASE_URL</key>
+	<string>https://project-bima-by-jirapas.firebaseio.com</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Your own description of the purpose</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Your message to user when the camera is accessed for the first time</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Your message to user when the photo library is accessed for the first time</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Your message to user when the microphone is accessed for the first time</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Your message to user when the photo library is accessed for the first time</string>
+</dict>
+</plist>
